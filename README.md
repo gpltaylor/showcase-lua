@@ -5,7 +5,7 @@ A Neovim plugin designed to help produce demos, presentations and showcases!
 
 ```
 return {
-  dir = "gpltaylor/showcase.vim"
+  dir = "gpltaylor/showcase-vim"
   name = "showcase",
   config = function ()
     local showcase = require('showcase')
